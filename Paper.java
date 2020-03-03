@@ -24,7 +24,7 @@ import javax.swing.JPanel;
  * and transceives user input with DatagramPackets. Runs a separate Runnable
  * Thread to listen for incoming data from a foreign host.
  *
- * @author Ivar Lund (from template)
+ * @author Ivar Lund
  * ivarnilslund@gmail.com
  */
 @SuppressWarnings("serial")
