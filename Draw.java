@@ -2,7 +2,7 @@
 /**
  * Implementation of distributed drawing program.
  * Creates a canvas and transmits user input to another identical program
- * via a DatagramSocket to mirror the canvas's.
+ * via a DatagramSocket to mirror the canvases.
  * 
  * @author Ivar Lund
  * ivarnilslund@gmail.com
